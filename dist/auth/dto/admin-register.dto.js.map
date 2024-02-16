@@ -1,1 +1,0 @@
-{"version":3,"file":"admin-register.dto.js","sourceRoot":"","sources":["../../../src/auth/dto/admin-register.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,qDAAgE;AAEhE,MAAa,gBAAgB;CAY5B;AAZD,4CAYC;AATC;IAFC,IAAA,4BAAU,GAAE;IACZ,IAAA,0BAAQ,GAAE;;8CACE;AAIb;IAFC,IAAA,4BAAU,GAAE;IACZ,IAAA,yBAAO,GAAE;;+CACI;AAId;IAFC,IAAA,4BAAU,GAAE;IACZ,IAAA,0BAAQ,GAAE;;kDACM"}
